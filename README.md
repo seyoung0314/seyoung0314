@@ -7,7 +7,7 @@
 
 ## 📈 통계
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyoung0314)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <img src="https://img.shields.io/badge/뱃지-221E68?style=for-the-badge&logo뱃지예&logoColor=white"> -->
