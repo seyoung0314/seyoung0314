@@ -4,6 +4,12 @@
 
 ![ZSj2](https://github.com/user-attachments/assets/b449d690-72e4-4383-ad99-d9db7c33c6b0)
 
+
+## 📈 통계
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- <img src="https://img.shields.io/badge/뱃지-221E68?style=for-the-badge&logo뱃지예&logoColor=white"> -->
 
 
@@ -33,9 +39,7 @@
 - **이메일**: [seyoung0314@gamil.com]
 - **인스타그램**: [https://yourblog.com]
 
-## 📈 통계
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎉 프로젝트
 
